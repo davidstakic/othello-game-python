@@ -1,0 +1,13 @@
+U projektu sam koristio module colorama za boje i tabulate za tabelu
+Mozete ih instalirati preko
+
+	pip install colorama
+
+	pip install tabulate
+
+Ostali moduli koje sam koristio su deo standardne python biblioteke
+
+Takodje bih vas zamolio da projekat pokrenete preko visual studia u pycharmu ili vs code u fullscreen,
+jer u suprotnom tabela ce se poremetiti i nece biti igrivo.
+
+Hvala unapred na razumevanju!
